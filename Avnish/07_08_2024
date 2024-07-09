@@ -1,0 +1,5 @@
+What Did I Do? 
+1. Created a Command Line Interface outline to get started with the project. 
+2. Tested all of the bugs that I have in the code. Code has around 150 lines. 
+3. Gave the user options to select from different careers, and then provided the salary benefits they would receive. Will update what bachelor's degree they need, etc. 
+4. Also gave the option for the user to select from a location, and then based on the location the user will be bale to chose from different universities, etc. 
