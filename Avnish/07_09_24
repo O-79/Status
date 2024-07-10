@@ -1,5 +1,0 @@
-Updated the tree in the command line interface, added more prompts and more careers instead of only two careers, also added the option for the user to select from three locations 
-Raleigh, NC Boston Massachusetts Austin Texas. From there, the user will be able to select from the univeristies that are in the location based on what the user chose. 
-For example, if the user chose the Raleigh, NC location, they will be shown universities such as University of North Carolina at Chapel Hill, and NC State. 
-Bassed on the Universities, the use rwill be able to choose from the careers that are most popular at that University. Then, they will be shown the salary after they select it. 
-Still working on 
